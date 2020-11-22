@@ -1,1 +1,1 @@
-# Image-classification-on-Fashion-MNIST-
+# Image-classification-CNN-on-Fashion-MNIST
